@@ -1,0 +1,14 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+gunicorn>=21.2.0
+python-dotenv>=1.0.0
+gevent==25.8.2
+uvloop==0.21.0
+httptools==0.5.0
+pydantic==2.8.0
+python-json-logger==3.3.0
+flake8===7.3.0
+numpy>=2.3.4
+scikit-learn==1.6.1
+scipy==1.16.3
+matplotlib==3.10.7
